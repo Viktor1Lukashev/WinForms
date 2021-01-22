@@ -1,0 +1,5 @@
+C:\Users\пк\source\repos\WF Homework1\WInForms_Homework_1_2\obj\Debug\WInForms_Homework_1_2.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\WF Homework1\WInForms_Homework_1_2\obj\Debug\WInForms_Homework_1_2.Form1.resources
+C:\Users\пк\source\repos\WF Homework1\WInForms_Homework_1_2\obj\Debug\WInForms_Homework_1_2.Properties.Resources.resources
+C:\Users\пк\source\repos\WF Homework1\WInForms_Homework_1_2\obj\Debug\WInForms_Homework_1_2.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\WF Homework1\WInForms_Homework_1_2\obj\Debug\WInForms_Homework_1_2.csproj.CoreCompileInputs.cache

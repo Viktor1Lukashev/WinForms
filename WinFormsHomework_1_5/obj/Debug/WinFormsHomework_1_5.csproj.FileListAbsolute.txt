@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\bin\Debug\WinFormsHomework_1_5.exe.config
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\bin\Debug\WinFormsHomework_1_5.exe
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\bin\Debug\WinFormsHomework_1_5.pdb
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.Form1.resources
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.Properties.Resources.resources
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.exe
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_5\obj\Debug\WinFormsHomework_1_5.pdb

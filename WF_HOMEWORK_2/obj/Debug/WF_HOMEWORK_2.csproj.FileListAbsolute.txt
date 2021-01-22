@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\bin\Debug\WF_HOMEWORK_2.exe.config
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\bin\Debug\WF_HOMEWORK_2.exe
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\bin\Debug\WF_HOMEWORK_2.pdb
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.Form1.resources
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.Properties.Resources.resources
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.exe
+C:\Users\пк\source\repos\WF Homework1\WF_HOMEWORK_2\obj\Debug\WF_HOMEWORK_2.pdb

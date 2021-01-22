@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\bin\Debug\WinFormsHomework_1_6.exe.config
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\bin\Debug\WinFormsHomework_1_6.exe
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\bin\Debug\WinFormsHomework_1_6.pdb
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.Form1.resources
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.Properties.Resources.resources
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.exe
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.pdb
+C:\Users\пк\source\repos\WF Homework1\WinFormsHomework_1_6\obj\Debug\WinFormsHomework_1_6.csprojAssemblyReference.cache
